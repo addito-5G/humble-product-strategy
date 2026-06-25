@@ -56,7 +56,4 @@
 
 ##  Артефакты и ссылки
 -   **[Полная карта стратегии в Miro](https://miro.com/welcomeonboard/SFMxY3hHbmVVUzEzRHB5QXo4MVd5Z3crcUhOY3ZpR1FDT1VlM2tiQnRrQ3RLM205OXMyek1qNEJWOVoraEM2NHVEWUZUWE1zc3haWkt2czNtYjhpbXR5WE9MQ0N3U1dFcnY4ZmxaaDJYSnk0VCt1REpQdSthWWV2dVp5amFUcUZ3VHhHVHd5UWtSM1BidUtUYmxycDRnPT0hdjE=?share_link_id=741387842889)** *(Открыта для просмотра без регистрации)*
--   **[Презентация стратегии (PDF)](humble_strategy_final.pdf)** *(Оригинальная презентация дипломного проекта)*
-
----
-*Этот кейс демонстрирует мою способность связывать развитие продукта с бизнес-целями, анализировать юнит-экономику и формировать roadmap на основе данных, а не интуиции.*
+-   **[Презентация стратегии (PDF)](humble_strategy_final.pdf)**
